@@ -1,4 +1,8 @@
 #!bin/bash
 e- #!bin/bash\n echo"ALX"
 e- #!bin/bash\necho"ALX"
+<<<<<<< HEAD
 #!bit/bash\necho"ALX School is so cool!"
+=======
+#!bit/bash\necho"ALX School"
+>>>>>>> update_script
